@@ -1,0 +1,54 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# Spark temporary files
+spark-*/ 
+*.crc
+*.snappy
+*.lz4
+*.parquet
+*.avro
+*.log
+*.eventlog
+metastore_db/
+derby.log
+*.tmp
+tmp/
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+
+# Docker
+*.pid
+*.swp
+
+# VS Code
+.vscode/
+
+# Minikube / Kubernetes (local files)
+.kube/
+minikube/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Uploaded screenshots (optional – if you don’t want them in repo)
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Backup files
+*~

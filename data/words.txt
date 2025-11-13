@@ -1,0 +1,15 @@
+bat
+boat
+belt
+bright
+bucket
+blast
+beet
+best
+basket
+boost
+cat
+dog
+apple
+zebra
+robot
